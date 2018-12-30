@@ -25,3 +25,7 @@ sed -i "s/sleep(.*)/sleep(10)/" install
 4.) Verify it is running.
 
 service codedeploy-agent status 
+
+
+
+NOte: you may need to install (yum install ruby to run "./install auto") ; 
